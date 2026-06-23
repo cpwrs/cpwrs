@@ -1,5 +1,5 @@
 I like computers.  
-Networking, security, operating systems, formal methods, open source and more.  
+Networking, security, operating systems, formal methods, open source, and more.  
 Let's build :) <a href="mailto:carson@linux.com">carson@linux.com</a>
 
 <img width="88" height="31" alt="linux-p" src="https://github.com/user-attachments/assets/f93b14b4-e4dc-4d9b-9d02-c2338c397ede" />
